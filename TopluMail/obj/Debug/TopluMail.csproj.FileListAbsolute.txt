@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\bin\Debug\TopluMail.exe.config
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\bin\Debug\TopluMail.exe
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\bin\Debug\TopluMail.pdb
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\obj\Debug\TopluMail.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\obj\Debug\TopluMail.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\obj\Debug\TopluMail.Form1.resources
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\obj\Debug\TopluMail.Properties.Resources.resources
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\obj\Debug\TopluMail.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\obj\Debug\TopluMail.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\obj\Debug\TopluMail.exe
+C:\Users\ASUS\source\repos\TopluMail\TopluMail\obj\Debug\TopluMail.pdb
